@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/bin/Debug/net7.0/publisher_subscriber
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/bin/Debug/net7.0/publisher_subscriber.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/bin/Debug/net7.0/publisher_subscriber.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/bin/Debug/net7.0/publisher_subscriber.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/bin/Debug/net7.0/publisher_subscriber.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/refint/publisher_subscriber.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/publisher_subscriber.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Events/publisher_subscriber/obj/Debug/net7.0/ref/publisher_subscriber.dll
