@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/bin/Debug/net7.0/list_pattern
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/bin/Debug/net7.0/list_pattern.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/bin/Debug/net7.0/list_pattern.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/bin/Debug/net7.0/list_pattern.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/bin/Debug/net7.0/list_pattern.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/refint/list_pattern.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/list_pattern.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/Arrays/list_pattern/obj/Debug/net7.0/ref/list_pattern.dll

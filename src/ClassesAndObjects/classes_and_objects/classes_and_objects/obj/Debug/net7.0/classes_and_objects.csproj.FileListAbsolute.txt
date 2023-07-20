@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/bin/Debug/net7.0/classes_and_objects
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/bin/Debug/net7.0/classes_and_objects.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/bin/Debug/net7.0/classes_and_objects.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/bin/Debug/net7.0/classes_and_objects.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/bin/Debug/net7.0/classes_and_objects.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/refint/classes_and_objects.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/classes_and_objects.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/classes_and_objects/classes_and_objects/obj/Debug/net7.0/ref/classes_and_objects.dll

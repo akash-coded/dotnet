@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/bin/Debug/net7.0/anonymous_types
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/bin/Debug/net7.0/anonymous_types.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/bin/Debug/net7.0/anonymous_types.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/bin/Debug/net7.0/anonymous_types.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/bin/Debug/net7.0/anonymous_types.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/refint/anonymous_types.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/anonymous_types.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ClassesAndObjects/anonymous_types/obj/Debug/net7.0/ref/anonymous_types.dll

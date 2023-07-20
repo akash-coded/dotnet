@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/bin/Debug/net7.0/second_project
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/bin/Debug/net7.0/second_project.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/bin/Debug/net7.0/second_project.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/bin/Debug/net7.0/second_project.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/bin/Debug/net7.0/second_project.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/refint/second_project.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/second_project.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/second-project/second-project/obj/Debug/net7.0/ref/second_project.dll

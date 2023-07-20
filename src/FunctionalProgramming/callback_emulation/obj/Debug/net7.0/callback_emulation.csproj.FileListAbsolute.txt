@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/bin/Debug/net7.0/callback_emulation
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/bin/Debug/net7.0/callback_emulation.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/bin/Debug/net7.0/callback_emulation.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/bin/Debug/net7.0/callback_emulation.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/bin/Debug/net7.0/callback_emulation.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/refint/callback_emulation.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/callback_emulation.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/callback_emulation/obj/Debug/net7.0/ref/callback_emulation.dll

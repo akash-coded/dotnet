@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/bin/Debug/net7.0/inheritance
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/bin/Debug/net7.0/inheritance.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/bin/Debug/net7.0/inheritance.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/bin/Debug/net7.0/inheritance.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/bin/Debug/net7.0/inheritance.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/refint/inheritance.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/inheritance.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/OOPSConcepts/inheritance/obj/Debug/net7.0/ref/inheritance.dll

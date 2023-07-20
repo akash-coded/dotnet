@@ -1,0 +1,5 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/pointers/obj/Debug/net7.0/pointers.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/pointers/obj/Debug/net7.0/pointers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/pointers/obj/Debug/net7.0/pointers.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/pointers/obj/Debug/net7.0/pointers.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/pointers/obj/Debug/net7.0/pointers.csproj.CoreCompileInputs.cache

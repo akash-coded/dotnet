@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/bin/Debug/net7.0/delegate_demo
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/bin/Debug/net7.0/delegate_demo.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/bin/Debug/net7.0/delegate_demo.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/bin/Debug/net7.0/delegate_demo.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/bin/Debug/net7.0/delegate_demo.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/refint/delegate_demo.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/delegate_demo.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/FunctionalProgramming/delegate_demo/obj/Debug/net7.0/ref/delegate_demo.dll
