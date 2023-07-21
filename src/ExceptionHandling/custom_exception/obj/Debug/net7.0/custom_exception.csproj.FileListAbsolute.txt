@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/bin/Debug/net7.0/custom_exception
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/bin/Debug/net7.0/custom_exception.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/bin/Debug/net7.0/custom_exception.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/bin/Debug/net7.0/custom_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/bin/Debug/net7.0/custom_exception.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/refint/custom_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/custom_exception.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/custom_exception/obj/Debug/net7.0/ref/custom_exception.dll

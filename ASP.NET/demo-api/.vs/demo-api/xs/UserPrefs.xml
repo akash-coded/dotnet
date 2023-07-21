@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BFC47426-5166-4195-8CEA-7929D0235E1C}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.demo-api PreferredExecutionTarget="/Volumes/Google Chrome/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo-api/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="demo-api/Program.cs" Line="23" Column="1" />
+      <File FileName="demo-api/Controllers/WeatherForecastController.cs" Line="5" Column="16" />
+      <File FileName="demo-api/WeatherForecast.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo-api" expanded="True">
+            <Node name="demo-api">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/bin/Debug/net7.0/try_catch
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/bin/Debug/net7.0/try_catch.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/bin/Debug/net7.0/try_catch.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/bin/Debug/net7.0/try_catch.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/bin/Debug/net7.0/try_catch.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/refint/try_catch.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/try_catch.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/try_catch/obj/Debug/net7.0/ref/try_catch.dll

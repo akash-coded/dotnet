@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "null_reference_exception/1.0.0": {
+        "runtime": {
+          "null_reference_exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "null_reference_exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

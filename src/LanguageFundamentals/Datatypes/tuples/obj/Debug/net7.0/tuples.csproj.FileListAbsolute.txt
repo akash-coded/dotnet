@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/bin/Debug/net7.0/tuples
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/bin/Debug/net7.0/tuples.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/bin/Debug/net7.0/tuples.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/bin/Debug/net7.0/tuples.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/bin/Debug/net7.0/tuples.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/refint/tuples.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/tuples.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/tuples/obj/Debug/net7.0/ref/tuples.dll

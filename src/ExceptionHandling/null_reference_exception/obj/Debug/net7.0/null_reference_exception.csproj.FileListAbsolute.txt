@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/bin/Debug/net7.0/null_reference_exception
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/bin/Debug/net7.0/null_reference_exception.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/bin/Debug/net7.0/null_reference_exception.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/bin/Debug/net7.0/null_reference_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/bin/Debug/net7.0/null_reference_exception.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/refint/null_reference_exception.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/null_reference_exception.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/ExceptionHandling/null_reference_exception/obj/Debug/net7.0/ref/null_reference_exception.dll

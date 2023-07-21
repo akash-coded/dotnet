@@ -1,0 +1,15 @@
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/bin/Debug/net7.0/records
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/bin/Debug/net7.0/records.deps.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/bin/Debug/net7.0/records.runtimeconfig.json
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/bin/Debug/net7.0/records.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/bin/Debug/net7.0/records.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.csproj.AssemblyReference.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.AssemblyInfoInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.AssemblyInfo.cs
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.csproj.CoreCompileInputs.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/refint/records.dll
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.pdb
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/records.genruntimeconfig.cache
+/Users/akash-coded/Library/CloudStorage/OneDrive-Personal/Work Directory/Resources/repos/dotnet/src/LanguageFundamentals/Datatypes/records/obj/Debug/net7.0/ref/records.dll
